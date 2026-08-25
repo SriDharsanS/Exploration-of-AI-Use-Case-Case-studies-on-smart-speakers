@@ -1,6 +1,7 @@
 # Exploration-of-AI-Use-Case-Case-studies-on-smart-speakers
 # AIM
 To study the application of Artificial Intelligence in smart speakers and understand how AI technologies such as Natural Language Processing (NLP), Speech Recognition, Machine Learning, and Voice Assistant technology are used to provide intelligent services.
+
 # THEORY
 A smart speaker is an AI-enabled electronic device that accepts voice commands from
 users and provides appropriate responses or performs actions. Examples include smart
@@ -8,6 +9,7 @@ speakers such as Amazon Echo, Google Nest, and Apple HomePod.
 Smart speakers combine several AI technologies to understand human speech,
 identify the user's intention, search for information, control smart devices, play music,
 set reminders, and answer questions.
+
 # WORKING PRINCIPLE 
 The basic working process of an AI-enabled smart speaker is:
 User Voice → Microphone → Speech Recognition → NLP → Intent Detection → AI
@@ -23,14 +25,17 @@ Processing → Response Generation → Speaker Output
 9. The speaker gives the response to the user.
 # SAMPLE IMAGE - AI ENABLED SMART SPEAKER
 <img width="406" height="131" alt="image" src="https://github.com/user-attachments/assets/2f165213-38db-485e-80ff-adf5d06e1420" />
+
 # HOW IT WORKS?
 <img width="506" height="518" alt="image" src="https://github.com/user-attachments/assets/1852ec66-3949-4850-9361-db0ca238febe" />
+
 # AI-ENABLED SMART SPEAKERS
 Examples:
- Amazon Echo – Alexa
- Google Nest – Google Assistant
- Apple HomePod – Siri
- Samsung SmartThings-compatible speakers
+Amazon Echo – Alexa
+Google Nest – Google Assistant
+Apple HomePod – Siri
+Samsung SmartThings-compatible speakers
+
 # CHARACTERISTICS OF AI-ENABLED SMART SPEAKERS
 1. Voice Interaction :Communicates with users through voice commands.
 2. Speech Recognition :Converts spoken words into text.
@@ -45,16 +50,18 @@ schedules.
 9. Multilingual Support : Understands and responds in multiple languages.
 10. Continuous Learning :AI models improve their performance using data and
 user feedback.
+
 # RELATED AI TOOLS / TECHNOLOGIES
- Machine Learning (ML) :Learns patterns from user interactions.
- Deep Learning (DL) :Used for speech and language understanding.
- Natural Language Processing (NLP): Understands human language.
- Automatic Speech Recognition (ASR) :Converts speech into text.
- Natural Language Understanding (NLU) :Identifies the meaning and intent of
+Machine Learning (ML) :Learns patterns from user interactions.
+Deep Learning (DL) :Used for speech and language understanding.
+Natural Language Processing (NLP): Understands human language.
+Automatic Speech Recognition (ASR) :Converts speech into text.
+Natural Language Understanding (NLU) :Identifies the meaning and intent of
 commands.
- Text-to-Speech (TTS) :Converts generated text into natural-sounding speech.
- Generative AI: Can generate more natural and context-aware responses.
- Cloud AI Services:Provide large-scale speech, language and knowledgeprocessing capabilities. 
+Text-to-Speech (TTS) :Converts generated text into natural-sounding speech.
+Generative AI: Can generate more natural and context-aware responses.
+Cloud AI Services:Provide large-scale speech, language and knowledgeprocessing capabilities. 
+
 # RESULT
 AI-enabled smart speakers demonstrate how Artificial Intelligence can be used in
 everyday life. By combining speech recognition, NLP, machine learning, and text-tospeech technologies, smart speakers can understand voice commands and provide
